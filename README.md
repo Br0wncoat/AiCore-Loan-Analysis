@@ -59,7 +59,6 @@ This project focuses on the data exploration and analysis of a loan payments tes
 - **Purpose**: Advanced data analysis and visualization.
 - **Prerequisite**: Ensure you run `EDA_clean.ipynb` first to generate the `loan_payments_cleaned.csv` file that this notebook will use.
 - **Features**:
-- **Features**:
   - In-depth analysis of loan recoveries, charged-off loans, and potential future risks.
   - Visualization of key metrics and insights.
   - Enhanced data processing and statistical analysis techniques.
